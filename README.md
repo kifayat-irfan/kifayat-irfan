@@ -9,7 +9,7 @@
 - **VectorMind** — multi-tenant RAG platform with hybrid retrieval + reranking
 
 ## 🛠️ Tech
-Python · LangChain/LangGraph · PyTorch · dlib · OpenCV · scikit-learn · Flask/FastAPI · Streamlit · Next.js · PostgreSQL · ChromaDB · SQLite · Docker
+Python · LangChain/LangGraph · Agentic AI · RAG Systems · PyTorch · Deep Learning · Machine Learning · dlib · OpenCV · scikit-learn · n8n · Workflow Automation · Flask/FastAPI · Streamlit · Next.js · PostgreSQL · ChromaDB · SQLite · Docker
 
 ## 📬 Get in touch
 - 💼 Open to Computer Vision / AI Engineer roles (remote or on-site)
