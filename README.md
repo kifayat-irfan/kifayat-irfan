@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kifayat Irfan 👋
 
-<!--
-**kifayat-irfan/kifayat-irfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** specializing in Agentic AI, LLM Systems, RAG, and Computer Vision.
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
+- **ProFace** — AI facial-recognition attendance system (dlib + ArcFace, anti-spoofing, REST API)
+- **GuardX** — AI autonomous security agent for real-time incident detection
+- **Autonomous Research Platform** — 12-agent system for the full research lifecycle
+- **Local-First RAG Platform** — multi-tenant RAG with hybrid retrieval + reranking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+Python · LangChain/LangGraph · dlib · PyTorch · Flask/FastAPI · PostgreSQL · Docker
+
+## 📬 Get in touch
+- 💼 Open to Computer Vision / AI Engineer roles (remote or on-site)
+- 🔗 LinkedIn: linkedin.com/in/kifayatirfan
+
+*I build AI systems that solve real problems.*
