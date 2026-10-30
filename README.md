@@ -13,6 +13,6 @@ Python · Machine Learning · Deep Learning · PyTorch · scikit-learn · dlib �
 
 ## 📬 Get in touch
 - 💼 Open to Computer Vision / AI Engineer roles (remote or on-site)
-- 🔗 LinkedIn: linkedin.com/in/kifayatirfan
+- 🔗 LinkedIn: linkedin.com/in/kifayatirfan-aiengineer
 
 *I build AI systems that solve real problems.*
